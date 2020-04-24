@@ -1,1 +1,1 @@
-Please go to Assignment 10 branch for assignment 10
+Assignments 9&10 are in seperate branches from master.
